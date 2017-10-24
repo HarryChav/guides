@@ -22,6 +22,8 @@ The time complexity for binary search tree is
 3. Insertion: O(n) in worst case and O(logn) in average case
 4. Deletion: O(n) in worst case and O(logn) in average case
 
+Binary search tree is not a balance tree. 
+
 ### Relevant videos on freeCodeCamp YouTube channel
 * <a href='https://youtu.be/5cU1ILGy6dM' target='_blank' rel='nofollow'>Binary Search Tree</a>
 * <a href='https://youtu.be/Aagf3RyK3Lw' target='_blank' rel='nofollow'>Binary Search Tree: Traversal and Height</a>
