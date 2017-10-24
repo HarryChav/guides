@@ -16,6 +16,12 @@ A binary search tree adds these two characteristics:
 
 Binary search trees allow fast lookup, insert and removal of nodes. The way that they are set up means that, on average, each comparison allows the operations to skip about half of the tree, so that each lookup, insertion or deletion takes time proportional to the logarithm of the number of items stored in the tree.
 
+The time complexity for binary search tree is 
+1. Space: O(n) in worst case and O(n) in average case
+2. Search: O(n) in worst case and O(logn) in average case
+3. Insertion: O(n) in worst case and O(logn) in average case
+4. Deletion: O(n) in worst case and O(logn) in average case
+
 ### Relevant videos on freeCodeCamp YouTube channel
 * <a href='https://youtu.be/5cU1ILGy6dM' target='_blank' rel='nofollow'>Binary Search Tree</a>
 * <a href='https://youtu.be/Aagf3RyK3Lw' target='_blank' rel='nofollow'>Binary Search Tree: Traversal and Height</a>
